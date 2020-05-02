@@ -1,0 +1,164 @@
+@font-face{
+    font-family: 'Ubuntu';
+src: url(Ubuntu-Regular.ttf);
+}
+* {
+    font-family: Ubuntu;
+}
+
+
+
+.div1{
+    color: white;
+    background-color: royalblue;
+    text-align: center;
+    
+    padding: 10px;
+    
+
+       
+}
+.div2{
+    
+    background-color: rgb(235, 235, 235);
+    
+    
+}
+button{
+    margin: 6px 15px 6px 15px;
+    padding: 10px;  
+    
+}
+li
+{
+text-align: center;
+margin: 0px 0px 5px 10px;
+padding: 10px;
+    display: inline-block
+}
+.div3{
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: 5px 8px 5px 8px;
+    padding: 1px;
+}
+.div4{
+    background-color: rgb(235, 238, 235);
+    text-align: justify;
+    
+}
+  .p2
+  {
+      text-align: center;
+      text-align: justify;
+      
+    padding: 50px;
+  }
+.div4a{
+    
+    text-align: center;
+    margin: 0px;
+    padding: 150px;
+}
+.h1{
+    color: mediumblue;
+    
+    
+}
+.h5{
+    color: white;
+}
+.s1,.s2{
+    
+    color:  rgb(138, 206, 37)
+}
+.div5{
+    background-color: rgb(43, 99, 204);
+    height: 150px;
+
+}
+
+.div6
+{
+    background-color :rgb(43, 99, 204);
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    flex-wrap: wrap;
+}
+
+ .div6a,.div6b,.div6c,.div6d{
+
+    color: white;
+     background-color: rgb(43, 99, 204);
+     height: 250px;
+     width: 310px;
+}
+ 
+
+.div7{
+    background-color:  rgb(235, 238, 235);
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+padding: 15px 60px 15px 60px;
+}
+
+
+.div7a,.div7b,.div7c,.div7d,.div7e,.div7f{
+    
+    margin: 26px;
+    padding: 30px 30px 30px 30px;
+     background-color: white;
+     height: 200px;
+     width: 300px;
+}
+.h5,.h4,.h3,.h3{
+    color: blue;
+}
+.div8{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap:wrap ;
+    margin: 90px 0px 90px 0;
+    padding: 15px 60px 15px 60px;
+}
+
+
+.div8hda,.div8hdb,.div8hdc,.div8hdd
+{
+    padding: 30px;
+    background-color: rgb(235, 238, 235);
+    height: 50px;
+    width: 300px;
+}
+.icon-box{
+    margin: 20px;
+    background-color: rgb(235, 238, 235);
+}
+.col-sm-4,.div9{
+    color: grey;
+    
+    background-color: rgb(51, 48, 48);
+}
+.div9a{
+    background-color:rgb(51, 48, 48);
+}
+.div10{
+    padding: 10px;
+    color: white;
+    background-color: rgb(61, 97, 165);
+}.imga{
+
+    position: absolute;
+    right: 10px;
+}
+.text-center{
+    margin: 20px 50px 20px 50px;
+    padding: 50px;
+}
